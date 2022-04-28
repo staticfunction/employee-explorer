@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "baseui": "^9.50.0",
-    "cross-fetch": "^3.0.4",
+    "cross-fetch": "^3.1.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-redux": "^7.1.3",
